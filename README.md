@@ -1,2 +1,4 @@
 # skoleoppgave-21.04-23
-Oppgave som Adrian skal løse
+For å bruke passord generatoren, åpne filen med cmd og skriv --help på slutten av programmet.
+Eksempel: Python pwgen.py --help
+Dette vil liste opp de forskjellige alternativene.
